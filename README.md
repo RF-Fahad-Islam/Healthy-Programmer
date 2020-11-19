@@ -29,7 +29,7 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 
 `To keep you healthy`
 
-#For Pull requests
+# For Pull requests
 
 1.Improve the timing.
 

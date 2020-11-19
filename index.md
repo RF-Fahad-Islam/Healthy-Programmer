@@ -1,25 +1,19 @@
-## Welcome to GitHub Pages
+## Healthy Programmer Software
+The Healthy Programmer Software made with python is a reminder program to keep you healthy. Because so a programmer is always in his chair and computer. So there needs to do some tasks to keep care of your health with the Drink water, Relax eyes and Do Physical exercise reminder.
 
-You can use the [editor on GitHub](https://github.com/RF-Fahad-Islam/Healthy-Programmer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Download the requirements.
+### Download Exe
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please download the all files when downloading exe of this programme. Else This will give a error.
 
-### Markdown
+```Requirements
+> pip install pygame
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Dependencies :
+from pygame import mixer
+from datetime import datetime
+from time import time
+import os
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,9 +22,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RF-Fahad-Islam/Healthy-Programmer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### For Pull requests
+1. Improve the timing.
+2. Add aditional features
+3. Convert it to a GUI
+4. Or Bug fix`
+`
 
 ### Support or Contact
 

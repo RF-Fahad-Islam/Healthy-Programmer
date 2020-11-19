@@ -16,10 +16,10 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 `import os`
 
 # Works
-`
-# Help remind you to :- `
 
-` 1.Drink water ` 
+`## Help remind you to :- `
+
+`1.Drink water` 
 
 `2.Relax eyes`
 

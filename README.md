@@ -31,4 +31,4 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 
 # Versions
 
-* This software is developed under (python 3.9) version *
+*This software is developed under (python 3.9) version*

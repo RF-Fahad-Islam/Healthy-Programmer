@@ -31,13 +31,13 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 
 # For Pull requests
 
-1.Improve the timing.
+**1.Improve the timing.
 
-2.Add aditional features
+**2.Add aditional features.**
 
-3.Convert it to a GUI
+**3.Convert it to a GUI.**
 
-4.Or Bug fix
+**4.Or Bug fix.**
 
 # Versions
 

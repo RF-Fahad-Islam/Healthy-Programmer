@@ -29,6 +29,16 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 
 `To keep you healthy`
 
+#For Pull requests
+
+1.Improve the timing.
+
+2.Add aditional features
+
+3.Convert it to a GUI
+
+4.Or Bug fix
+
 # Versions
 
-*This software is developed under (python 3.9) version*
+**This software is developed under (python 3.9) version**

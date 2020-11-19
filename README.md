@@ -6,18 +6,15 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 
 #Dependecies
 
-`*_from pygame import mixer
-from datetime import datetime
-from time import time
-import os_*`
+`from pygame import mixer`
+`from datetime import datetime`
+`from time import time`
+`import os`
 
 # Works
 `
-*
-Help remind you to :- 
-1.Drink water 
-2.Relax eyes
-3. Physical Exercise
-_to keep you healthy_
-*
-`
+Help remind you to :- `
+`1.Drink water `
+`2.Relax eyes`
+`3. Physical Exercise`
+`_to keep you healthy_`

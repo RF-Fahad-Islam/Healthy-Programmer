@@ -3,6 +3,7 @@ from datetime import datetime
 from time import time
 import os
 os.chdir(os.path.join(os.getcwd(), "Healthy Programmer"))
+log_file_name = "mylog.log"
 def mainsongloop(musicpath, stopper):
     mixer.init()
     mixer.music.load(musicpath)
@@ -15,18 +16,20 @@ def mainsongloop(musicpath, stopper):
             break
 def log_file(msg):
     print(msg)
-    with open("mylog.log", "a") as f:
+    with open(log_file_name, "a") as f:
         f.write(f"{msg} [{datetime.now()}]\n")
         
 if __name__ == "__main__":
-    print("Welcome to Healthy Programmer Software")
+    print("\n\t\t\tWelcome to Healthy Programmer Software")
     initial_water = time()
     initial_eyes = time()
     initial_exercise = time()
-    waterTime = 60
-    water_level = 0
-    eyesTime = 40
-    exerciseTime = 100
+    waterTime = 60*60
+    water_level = 0     
+    eyesTime = 40*60
+    exerciseTime = 100*60
+    print(f"\nThis software will remind you to :-\nDrink water in every {waterTime/60} minutes,\nRelax eyes in every {eyesTime/60} minutes,\nDo some physical exercise in every {exerciseTime//60} minutes")
+    print(f"Note : Your activities will be logged in {log_file_name}")
     while True:
         if time() - initial_water > waterTime and water_level != 3500:
             mainsongloop("water.wav", "drank")

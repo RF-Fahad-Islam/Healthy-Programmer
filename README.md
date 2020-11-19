@@ -17,7 +17,7 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 
 # Works
 `
-#Help remind you to :- `
+# Help remind you to :- `
 
 ` 1.Drink water ` 
 
@@ -29,6 +29,6 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 
 `To keep you healthy`
 
-#Versions
+# Versions
 
-This software is developed under (python 3.9) version
+* This software is developed under (python 3.9) version *

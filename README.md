@@ -2,6 +2,7 @@
 The Healthy Programmer Software made with python is a reminder program to keep you healthy. Because so a programmer is always in his chair and computer. So there needs to do some tasks to keep care of your health with the Drink water, Relax eyes and Do Physical exercise reminder.
 
 #Packages or modules:
+
 `> pip install pygame`
 
 #Dependecies
@@ -27,3 +28,7 @@ The Healthy Programmer Software made with python is a reminder program to keep y
 `4.Save the data to mylog.log file`
 
 `To keep you healthy`
+
+#Versions
+
+This software is developed under (python 3.9) version
